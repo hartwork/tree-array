@@ -18,6 +18,7 @@
 #include "ArraySearchTree.h"
 #include <cstdlib>
 #include <cassert>
+#include <algorithm>
 
 enum Side {
 	LEFT = 0,
